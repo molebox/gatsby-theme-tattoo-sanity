@@ -1,6 +1,6 @@
 # gatsby-theme-tattoo-sanity
 
-This is the sanity backend for use with the gatsby theme (gatsby-theme-tattoo)[https://www.npmjs.com/package/gatsby-theme-tattoo].
+This is the sanity backend for use with the gatsby theme [gatsby-theme-tattoo](https://www.npmjs.com/package/gatsby-theme-tattoo).
 
 # Usage
 
